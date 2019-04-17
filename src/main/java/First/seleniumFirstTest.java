@@ -28,7 +28,7 @@ public class seleniumFirstTest {
        * the result as "Passed" or "Failed"
        */
       
-     
+     System.out.println();
       //close Fire fox
       driver.close();
   }
